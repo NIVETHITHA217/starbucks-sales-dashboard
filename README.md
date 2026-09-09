@@ -78,7 +78,7 @@ starbucks-sales-dashboard/
 ## 🎥 Demo Video
 
 A full screen recording walkthrough of the dashboard is available here:
-👉 
+👉 https://github.com/NIVETHITHA217/starbucks-sales-dashboard/blob/main/Screen%20Recording%202026-09-09%20204512.mp4
 
 ## 🚀 How to Use
 
